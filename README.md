@@ -1,2 +1,0 @@
-# blockbench-ai
-BLOCKBENCH AI
